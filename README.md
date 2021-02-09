@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/rafahsena/rafahsena/main/assets/ori.gif" width="200"/>
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rafahsena.dev/">Rafael</a></b>, and welcome to my GitHub!
@@ -16,7 +17,6 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/rafahsena/rafahsena/main/assets/ori.gif" width="200"/>
 
 </p>
 
