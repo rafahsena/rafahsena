@@ -35,7 +35,7 @@ Current Project: <a href="https://rafahsena.dev">My Personal Blog.</a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/rafahsena/">
   <img src="https://raw.githubusercontent.com/rafahsena/rafahsena/main/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/rafahsena">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/rafa_hsena">
   <img src="https://raw.githubusercontent.com/rafahsena/rafahsena/main/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp;
   &nbsp;
