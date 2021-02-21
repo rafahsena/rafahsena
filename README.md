@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rafahsena/rafahsena/main/assets/ori.gif" width="200"/>
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rafahsena.dev/">Rafael</a></b>, and welcome to my GitHub!
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://blog.rafahsena.dev/">Rafael</a></b>, and welcome to my GitHub!
     <h3>Let me briefly introduce myself:</h3>
     <ul>
       <li>🔭 I’m a Computer Science Undergraduated from Brazil</li>
@@ -29,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://rafahsena.dev">My Personal Blog.</a>
+Current Project: <a href="https://blog.rafahsena.dev">My Personal Blog.</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/rafahsena/">
@@ -39,7 +39,7 @@ Current Project: <a href="https://rafahsena.dev">My Personal Blog.</a>
   <img src="https://raw.githubusercontent.com/rafahsena/rafahsena/main/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://rafahsena.dev/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://blog.rafahsena.dev/">
   <img src="https://raw.githubusercontent.com/rafahsena/rafahsena/main/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
