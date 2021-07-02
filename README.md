@@ -6,7 +6,7 @@
     <h3>Let me briefly introduce myself:</h3>
     <ul>
       <li>🔭 I’m a Computer Science Undergraduated from Brazil</li>
-      <li>⚡ I work as a Frontend Developer at Lumen Games</li>
+      <li>⚡ I work as a Frontend Developer at Ioasys</li>
       <li>🎮 I like playing videogames and i actually make games as a hobby</li>
       <li>💬 I'm creating my personal blog to show you my journey as developer</li>
     </ul>
